@@ -1,4 +1,4 @@
-# Signature Simulator — Educational Project
+# fake Signature Simulator — Educational Project
 
 An educational Windows utility for learning about executable file paths, digital signatures, and Authenticode verification.
 
